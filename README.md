@@ -75,11 +75,8 @@ git commit -m "Completed Tribute Page"
 git push origin main
 ```
 
-1. Create a Pull Request and submit your assignment below:
-
-< Submission >
-
-Please provide the link to the Pull Request you’ve created for the Exercise.
+1. Create a Pull Request
+2. Submit the URL of your Pull Request
 
 ## Bonus Challenges
 
