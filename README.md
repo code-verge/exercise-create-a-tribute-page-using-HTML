@@ -1,1 +1,1 @@
-# Exercise-JavaScript-Basic-Algorithms
+# exercise-JavaScript-Basic-Algorithms
