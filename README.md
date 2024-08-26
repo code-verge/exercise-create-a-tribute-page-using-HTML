@@ -43,23 +43,23 @@ Don’t overthink it as your tribute webpage will be a simple one-pager.
 
 Complete the following tasks to complete this exercise:
 
-### Iteration 1: Title
+### Task 1: Title
 
 Create a title or heading with the person’s name.
 
-### Iteration 2: Short Description
+### Task 2: Short Description
 
 Write a short description about the person.
 
-### Iteration 3: Add Image
+### Task 3: Add Image
 
 Find an appropriate image and add an image of the person to your tribute page.
 
-### Iteration 4: Caption the Image
+### Task 4: Caption the Image
 
 Enrich the image with a caption
 
-### Iteration 5: Timeline
+### Task 5: Timeline
 
 Add a timeline of the person’s life and represent it as a list
 
