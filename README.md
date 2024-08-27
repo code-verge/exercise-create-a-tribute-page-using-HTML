@@ -41,6 +41,8 @@ Remember, it can be a historical figure, a celebrity or any person of influence.
 
 Don’t overthink it as your tribute webpage will be a simple one-pager.
 
+There is no starter code provided. You will create a simple HTML page called ´index.html´.
+
 Complete the following tasks to complete this exercise:
 
 ### Task 1: Title
